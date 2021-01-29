@@ -1,6 +1,6 @@
 FROM ubuntu:latest AS build
 
-ARG XMRIG_VERSION='v6.7.0'
+ARG XMRIG_VERSION='v6.8.0'
 
 ENV DEBIAN_FRONTEND=noninteractive
 
